@@ -48,5 +48,4 @@ An automated smart dustbin that opens its lid when a user is nearby and alerts w
 
 ---
 
-> Created by [Your Name]  
-> Inspired by real-world smart waste solutions 🌍
+> Created by [Shreyash Shrishette]  
