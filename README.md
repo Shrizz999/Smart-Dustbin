@@ -29,8 +29,6 @@ An automated smart dustbin that opens its lid when a user is nearby and alerts w
 | Servo Signal   | 3           |
 | Buzzer (+)     | 10          |
 
-You can also include a wiring diagram or Tinkercad screenshot in the `images/` folder.
-
 ## 🚀 Getting Started
 
 1. Open `SmartDustbin.ino` in the Arduino IDE.
