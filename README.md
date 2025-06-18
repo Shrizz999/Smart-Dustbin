@@ -43,13 +43,13 @@ An automated smart dustbin that opens its lid when a user is nearby and alerts w
 - **Servo**: Moves lid to 90° when triggered, and back to 0° after 3 seconds.
 
 ## Circuit Diagram
-![Circuit Diagram](images/SmartDustbin.png)\
+![Circuit Diagram](images/SmartDustbin.png)
 
 ## Working Diagram
-![Working Diagram](images/SmartDustbinWorking.png)\
+![Working Diagram](images/SmartDustbinWorking.png)
 
 ## Schematic
-![Schematic](images/SmartDustbinSchematic.png)\
+![Schematic](images/SmartDustbinSchematic.png)
 
 ---
 
